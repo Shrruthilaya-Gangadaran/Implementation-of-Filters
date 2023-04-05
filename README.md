@@ -94,12 +94,17 @@ cv2.destroyAllWindows()
 ## OUTPUT:
 ### 1. Smoothing Filters
 
+Original image
+
+
+![](output1.png)
+
 
 i) Using Averaging Filter
 
 
-![](output1.png)
 ![](output2.png)
+
 
 ii) Using Weighted Averaging Filter
 
